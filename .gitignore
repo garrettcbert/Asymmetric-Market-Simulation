@@ -143,6 +143,9 @@ celerybeat.pid
 .env
 .envrc
 .venv
+bin/
+include/
+pyvenv.cfg
 env/
 venv/
 ENV/

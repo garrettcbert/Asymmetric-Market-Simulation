@@ -11,4 +11,4 @@ Try the live simulation [here](https://asym-market-simulation-cat4sztwhnhsaxkmgs
 
 ```bash
 pip install -r requirements.txt
-streamlit run AsymProjectCode.py
+streamlit run app.py
