@@ -2,7 +2,7 @@
 
 An interactive simulation of George Akerlof's "Market for Lemons" model, demonstrating how asymmetric information leads to market failure over time. Built with Streamlit.
 
-Try the live simulation [here](https://asymmetric-market-simulation.streamlit.app/).
+Try the live simulation [here](https://asym-market-simulation-cat4sztwhnhsaxkmgspjwr.streamlit.app/).
 
 ## Overview
 
